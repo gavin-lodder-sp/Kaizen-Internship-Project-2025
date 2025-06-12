@@ -1,2 +1,4 @@
-# Kaizen-Internship-Project-2025
-Folder to mess around with the project and create scripts to run on jenkins
+# Hello World
+
+This is a simple document to test the Confluence sync script.
+I added a new line.
